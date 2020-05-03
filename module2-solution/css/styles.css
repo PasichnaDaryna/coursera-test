@@ -1,0 +1,49 @@
+body {
+
+}
+
+h1 {
+text-align: center;
+width: 100%;    
+}
+
+.container1 {
+    
+    
+    display: inline-block;
+    width: 30%;
+    border: 5px;
+    border-style: solid;
+}
+
+.container2 {
+    
+    display: inline-block;
+    width: 30%;
+    border: 5px;
+    border-style: solid;
+    border-left: solid;
+    
+
+}
+
+.container3 {
+    display: inline-block;
+    width: 30%;
+    border: 5px;
+    border-style: solid;
+}
+h2 {
+    text-align: right;
+    border-bottom: solid;
+    border-left: solid;
+    
+    
+    
+    
+}
+p {
+    background-color: grey;
+}
+
+.head1
